@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
       <a href="/assets/pdf/example_pdf.pdf"><i class="ai ai-cv-square ai-2x"></i></a>
-      <a href="https://orcid.org/0000-0003-0538-4245"><i class="ai ai-orcid ai-2x"></i></a>
+      <a href="https://orcid.org/0000-0003-0538-4245"><i class="ai ai-orcid-square ai-2x"></i></a>
       <a href="https://scholar.google.com/citations?user=8IO8d-cAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-      <a href="https://www.researchgate.net/profile/Jinsheng-Hu/research"><i class="ai ai-researchgate ai-2x"></i></a>
+      <a href="https://www.researchgate.net/profile/Jinsheng-Hu/research"><i class="ai ai-researchgate-square ai-2x"></i></a>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
