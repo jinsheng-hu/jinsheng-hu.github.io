@@ -2,20 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD. Candidate @ <a href='https://ev.buaa.edu.cn/'>Beihang University</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: bio_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+      <a href="/assets/pdf/cv.pdf"><i class="ai ai-cv-square ai-2x"></i></a>
+      <a href="https://www.linkedin.com/in/yu-changqian/"><i class="fa-brands fa-linkedin fa-2x"></i></a>
+      <a href="https://scholar.google.com/citations?user=Hv-vj2sAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+      <a href="https://github.com/yu-changqian"><i class="fa-brands fa-square-github fa-2x"></i></a>
+      <a href="https://x.com/ChangqianYu"><i class="fa-brands fa-square-x-twitter fa-2x"></i></a>
+      <a href="https://www.zhihu.com/people/yu-chang-qian"><i class="fa-brands fa-zhihu fa-2x"></i></a>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+awards: true
+social: false # includes social icons at the bottom of the page
 ---
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
