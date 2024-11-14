@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully earned the Bachelor's degree from Hefei University of Technology.
+Successfully earned the Bachelor's degree from Hefei University of Technology (Anhui Province).
