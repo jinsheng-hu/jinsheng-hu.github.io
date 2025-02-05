@@ -10,7 +10,7 @@ nav_order: 2
 <div class="publications">
 
 <p>
-Please see <a href="https://scholar.google.com/citations?user=Hv-vj2sAAAAJ&hl=en">Google Scholar for more recent works and arXiv papers.
+Please see <a href="https://scholar.google.com/citations?user=8IO8d-cAAAAJ&hl=en&oi=ao">Google Scholar for more recent works and related papers.
 </p>
 <p>
 * : Equal contribution  †: Corresponding  author.
