@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-### Awards
+## Awards
 - (2024) China National Scholarship/**国家奖学金** (Top 0.2% PhD Students in China), Ministry of Education of P.R. China
 - (2020) Excellent Graduate of Hefei University of Technology (Bachelor’s degree), Hefei University of Technology
 - (2020) Excellent Graduate of Anhui Province (Bachelor’s degree), Anhui Province
