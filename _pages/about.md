@@ -4,7 +4,6 @@ title: About
 permalink: /
 subtitle: Ph.D. Candidate @ <a href='https://ev.buaa.edu.cn/'>Beihang University</a>. 37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191.
 
-
 profile:
   align: left
   image: bio_pic.jpg
@@ -20,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 awards: true
 social: false # includes social icons at the bottom of the page
 ---
-I am currently pursuing my Ph.D. at Beihang University, specializing in Chip integration of quantum sensing devices (such as atomic magneotmetry, atomic gyroscope etc.). 
+I am currently pursuing my Ph.D. at Beihang University, specializing in Chip integration of quantum sensing devices (such as atomic magnetometry, atomic gyroscope, etc.). 
 
-My primary research focus includes nanophotonics, atomic magnetometer, all-dielectric meta-optics, silicon photonics. 
-
-Through my work on chip-integration, I aim to address critical challenges in, contributing new insights and practical solutions to both academia and industry.
+My primary research focus includes nanophotonics, chip-scale atomic magnetometer, all-dielectric meta-optics, silicon photonics, etc.
