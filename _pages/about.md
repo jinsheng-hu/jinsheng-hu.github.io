@@ -21,4 +21,4 @@ social: false # includes social icons at the bottom of the page
 ---
 I am currently pursuing my Ph.D. at Beihang University, specializing in Chip integration of quantum sensing devices (such as atomic magnetometry, atomic gyroscope, etc.). 
 
-My primary research focus includes nanophotonics, chip-scale atomic magnetometer, all-dielectric meta-optics, silicon photonics, etc.
+My primary research focus includes nanophotonics, all-dielectric meta-optics, chip-scale atomic magnetometer, silicon photonics, etc.
